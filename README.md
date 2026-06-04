@@ -32,4 +32,4 @@ Interactive web maps for the June 2026 primary election.
 - [Treasurer-Tax Collector](map_TREASURER-TAX_COLLECTOR.html)
 
 ---
-*Results as of 6/2/2026 10:55:28 PM update*
+*Results last updated: June 3, 2026 at 5:11 PM*
