@@ -1,4 +1,4 @@
-# Imperial County Election Maps
+# 🗺️ Imperial County Election Maps
 
 Interactive web maps for the June 2026 primary election.
 
