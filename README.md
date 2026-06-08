@@ -5,7 +5,7 @@ Interactive precinct-level election maps for Imperial County's June 2026 primary
 ## Federal & Statewide
 
 - [Attorney General](map_ATTORNEY_GENERAL.html)
-- [Board of Equalization — District 4](map_MEMBER,_BOARD_OF_EQUALIZATION_DISTRICT_4.html)
+- [Board of Equalization — District 4](map_BOE_D4.html)
 - [Controller](map_CONTROLLER.html)
 - [Governor](map_GOVERNOR.html)
 - [Insurance Commissioner](map_INSURANCE_COMMISSIONER.html)
