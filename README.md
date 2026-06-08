@@ -32,6 +32,6 @@ Interactive precinct-level election maps for Imperial County's June 2026 primary
 - [Treasurer-Tax Collector](map_TREASURER-TAX_COLLECTOR.html)
 
 ---
-*Results last updated: June 3, 2026 at 5:11 PM*
+*Results last updated: June 5, 2026 at 5:06 PM*
 
 *Source: [Imperial County Registrar of Voters](https://www.livevoterturnout.com/ENR/imperialcaenr/5/en/Index_5.html)*
