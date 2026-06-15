@@ -13,7 +13,7 @@ Interactive precinct-level election maps for Imperial County's June 2026 primary
 - [Secretary of State](map_SECRETARY_OF_STATE.html)
 - [State Assembly — District 36](map_STATE_ASSEMBLY_DISTRICT_36.html)
 - [State Senator — District 18](map_STATE_SENATOR_DISTRICT_18.html)
-- [State Superintendent of Public Instruction](map_STATE_SUPERINTENDENT_OF_PUBLIC_INSTRUCTI.html)
+- [State Superintendent of Public Instruction](map_STATE_SUPERINTENDENT_OF_PUBLIC_INSTRUCTION.html)
 - [Treasurer](map_TREASURER.html)
 - [U.S. Representative — District 25](map_UNITED_STATES_REPRESENTATIVE_DISTRICT_25.html)
 
